@@ -2,11 +2,11 @@
   "name": "hits",
   "displayName": "内容点击量插件",
   "description": "SSCMS 内容点击量插件",
-  "version": "1.0.9",
-  "license": "GPL-3.0",
+  "version": "1.0.10",
+  "license": "AGPL-3.0",
   "publisher": "sscms",
   "engines": {
-    "sscms": "^7.0.7"
+    "sscms": "^7.0.8"
   },
   "categories": [
     "Other"
